@@ -2,7 +2,7 @@
 title: "About"
 author: "Cristián Romo"
 date: 2020-05-25T12:56:10-05:00
-draft: true
+draft: false
 ---
 
 Batter Blotter is a blog by Francesca Picarazzi and Cristián Romo on the topics
