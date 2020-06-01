@@ -9,7 +9,7 @@ draft: false
 These buttermilk chocolate chip cookies come out soft and cakey - perfect for
 soaking up milk.
 
-Prep time: 30 minutes preparation  
+Prep time: 30 minutes
 Cook time: 10-12 minutes per round  
 Yield: 48 cookies
 
