@@ -1,7 +1,7 @@
 ---
-title: "Dill Cream Cheese Dip"
+title: "Savory Cream Cheese Dip"
 author: "Francesca Picarazzi"
-featured_image: "/dill-cream-cheas-dip_2020-05-31.jpg"
+featured_image: "/savory-cream-cheese-dip_2020-05-31.jpg"
 date: 2020-05-31T19:10:33-05:00
 draft: false
 ---
