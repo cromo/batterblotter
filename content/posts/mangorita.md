@@ -8,7 +8,7 @@ draft: false
 
 It's like a mango slushie, but it gets you buzzed.
 
-Prep time: 5 minutes
+Prep time: 5 minutes  
 Yield: 2 large drinks
 
 ## Ingredients
