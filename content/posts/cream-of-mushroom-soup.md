@@ -42,6 +42,7 @@ Yield: 5-6 bowls
 - a mixing spoon
 - a measuring cup that can hold at least four cups 
 - a small bowl
+- a small spoon
 
 ## Instructions
 
