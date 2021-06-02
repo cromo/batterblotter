@@ -32,7 +32,7 @@ Yield: 5-6 bowls
 - 1-2 tsp salt to taste
 - 1/2-1 tsp cracked black pepper to taste
 - 1 13.7 fl. oz. can full fat coconut milk (preferred Thai Kitchen Organic Unsweetened)
-- chopped fresh parley and thyme
+- 6-7 sprigs fresh parsley
 
 ## Equipment
 
@@ -63,6 +63,7 @@ Yield: 5-6 bowls
 1. Reduce heat to low.
 1. Stir in coconut milk.
 1. Simmer gently - do not boil.
+1. Mince parsley.
 1. In a small bowl, mix arrowroot powder and cold water into a slurry. More may be added for a thicker soup.
 1. Add slurry to pot.
 1. Mix in parsley and remaining thyme.
