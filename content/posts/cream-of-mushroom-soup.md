@@ -32,7 +32,7 @@ Yield: 5-6 bowls
 - 1-2 tsp salt to taste
 - 1/2-1 tsp cracked black pepper to taste
 - 1 13.7 fl. oz. can full fat coconut milk (preferred Thai Kitchen Organic Unsweetened)
-- chopped fresh parley and a time for garnish
+- chopped fresh parley and thyme
 
 ## Equipment
 
