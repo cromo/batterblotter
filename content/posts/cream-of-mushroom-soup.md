@@ -1,6 +1,7 @@
 ---
 title: "Cream of Mushroom Soup"
 author: "Francesca Picarazzi"
+featured_image: "/cream-of-mushroom-soup_2021-06-08.jpg"
 date: 2021-05-31T17:55:10-05:00
 draft: false
 ---
