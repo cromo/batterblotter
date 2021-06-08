@@ -66,7 +66,8 @@ Yield: 5-6 bowls
 1. Simmer gently - do not boil.
 1. Mince parsley.
 1. In a small bowl, mix arrowroot powder and cold water into a slurry. More may be added for a thicker soup.
-1. Add slurry to pot.
+1. Take the pot off heat.
+1. Add slurry to pot while mixing.
 1. Mix in parsley and remaining thyme.
 1. Add salt and pepper to taste.
 1. Serve warm.
