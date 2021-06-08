@@ -5,7 +5,7 @@ date: 2021-05-31T17:55:10-05:00
 draft: false
 ---
 
-He didn't used to like cream of mushroom soup, but now he does.
+He didn't used to like cream of mushroom soup, but now he does - and it tastes even better with a baked potato!
 
 Prep time: 10 minutes  
 Cook time: 35 minutes  
